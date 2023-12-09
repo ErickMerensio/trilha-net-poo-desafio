@@ -7,7 +7,7 @@ namespace DesafioPOO.Models
 
         public override InstalarAplicativo(string nomeApp)
         {
-            console.WriteLine($"Instalando o aplicado "{nomeApp}" no iPhone");
+            console.WriteLine($"Instalando o aplicado \"{nomeApp}\" no iPhone");
         }
     }
 }
